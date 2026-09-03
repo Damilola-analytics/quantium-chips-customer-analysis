@@ -230,6 +230,7 @@ Promote high-performing brands such as Thins to high-value customer groups while
 The project includes visualizations covering:
 
 ### Revenue by Brand
+
 ![Sales by Brands](sales-by brands.jpg)
 
 ### Revenue by Pack Size
@@ -239,6 +240,7 @@ The project includes visualizations covering:
 ### Brand vs Customer Life Stage
 
 ![Brand vs Customer Life Stage](Brand-vs-customer%20lifestage.png)
+
 - ### Monthly Sales Trend
 
 ![Monthly Sales Trend](monthly-sales-trends.jpg)
