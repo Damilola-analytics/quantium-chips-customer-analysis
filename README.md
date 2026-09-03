@@ -229,21 +229,38 @@ Promote high-performing brands such as Thins to high-value customer groups while
 ## Visualizations
 The project includes visualizations covering:
 
-### Revenue by Brands
 
-![Sales by Brands](sales-by brands.jpg)
+## 📊 Visualizations
 
-### Revenue by Pack Size
+The following visualizations highlight key findings from the analysis.
+
+### 1. Monthly Sales Trend
+
+![Monthly Sales Trend](Monthly%20Sales%20trend.png)
+
+### 2. Revenue by Pack Size
 
 ![Revenue by Pack Size](revenue-by-pack-size.png)
 
-### Brand vs Customer Life Stage
+### 3. Total Sales by Brand
+
+![Total Sales by Brand](Total%20sales%20by%20brand.png)
+
+### 4. Sales by Customer Life Stage
+
+![Sales by Customer Life Stage](Total%20Sales%20by%20Lifestage.png)
+
+### 5. Sales by Customer Segment
+
+![Sales by Customer Segment](Sales%20by%20Customer%20segment.png)
+
+### 6. Quantity vs Sales
+
+![Quantity vs Sales](quantity%20vs%20sales.png)
+
+### 7. Brand vs Customer Life Stage
 
 ![Brand vs Customer Life Stage](Brand-vs-customer%20lifestage.png)
-
-- ### Monthly Sales Trend
-
-![Monthly Sales Trend](monthly-sales-trends.png)
 
 ## Tools & Technologies
 
