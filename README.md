@@ -260,7 +260,7 @@ The following visualizations highlight key findings from the analysis.
 
 ### 7. Brand vs Customer Life Stage
 
-![Brand vs Customer Life Stage](Brand-vs-customer%20lifestage.png)
+![Brand vs customer lifestage](Brand%20vs%20customer%20lifestage.png)
 
 
 ## Tools & Technologies
