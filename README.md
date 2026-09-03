@@ -229,7 +229,7 @@ Promote high-performing brands such as Thins to high-value customer groups while
 ## Visualizations
 The project includes visualizations covering:
 
-### Revenue by Brand
+### Revenue by Brands
 
 ![Sales by Brands](sales-by brands.jpg)
 
@@ -243,7 +243,7 @@ The project includes visualizations covering:
 
 - ### Monthly Sales Trend
 
-![Monthly Sales Trend](monthly-sales-trends.jpg)
+![Monthly Sales Trend](monthly-sales-trends.png)
 
 ## Tools & Technologies
 
