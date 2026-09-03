@@ -229,6 +229,9 @@ Promote high-performing brands such as Thins to high-value customer groups while
 ## Visualizations
 The project includes visualizations covering:
 
+### Revenue by Brand
+![Sales by Brands](sales-by brands.jpg)
+
 ### Revenue by Pack Size
 
 ![Revenue by Pack Size](revenue-by-pack-size.png)
