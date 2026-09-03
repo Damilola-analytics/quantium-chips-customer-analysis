@@ -253,6 +253,34 @@ The project includes visualizations covering:
 - **Data Visualization**
 - **Business Analytics**
 
+## Project Files
+## File Description
+Forage chips.ipynb
+Complete Python/Jupyter Notebook containing the analysis
+cleaned_chip_data.csv
+Cleaned and feature-engineered dataset
+images/
+Project charts and visualizations
+
+## Overall Business Recommendations
+Based on the analysis:
+Prioritize high-value customer segments, particularly Older Singles/Couples, Retirees, and Older Families.
+Maintain strong inventory for high-performing brands, especially Thins, Doritos, and Cobs.
+Prioritize 170g and 175g packs, which generated the highest revenue.
+Use seasonal planning, especially before the December sales peak.
+Introduce targeted promotions for lower-performing customer segments.
+Use multi-buy and bundle offers to increase purchase quantities and transaction value.
+Segment marketing campaigns by customer life stage to better match customer purchasing behaviour.
+
+## Conclusion
+This project demonstrates how customer transaction data can be transformed into actionable business insights.
+Through data cleaning, feature engineering, customer segmentation, product analysis, and visualization, the analysis identified the customer groups, brands, pack sizes, and purchasing patterns that contribute most to chip sales.
+The findings can support better decisions around marketing, inventory planning, promotions, customer retention, and product strategy.
+
+## Author
+Oluwadamilola Oluwatosin
+Data Analyst | Python | SQL | Power BI | Excel | Data Visualization
+
 ## Analysis Workflow
 
 ```text
@@ -281,30 +309,3 @@ Business Insights
 Strategic Recommendations
 
 
-## Project Files
-## File Description
-Forage chips.ipynb
-Complete Python/Jupyter Notebook containing the analysis
-cleaned_chip_data.csv
-Cleaned and feature-engineered dataset
-images/
-Project charts and visualizations
-
-## Overall Business Recommendations
-Based on the analysis:
-Prioritize high-value customer segments, particularly Older Singles/Couples, Retirees, and Older Families.
-Maintain strong inventory for high-performing brands, especially Thins, Doritos, and Cobs.
-Prioritize 170g and 175g packs, which generated the highest revenue.
-Use seasonal planning, especially before the December sales peak.
-Introduce targeted promotions for lower-performing customer segments.
-Use multi-buy and bundle offers to increase purchase quantities and transaction value.
-Segment marketing campaigns by customer life stage to better match customer purchasing behaviour.
-
-## Conclusion
-This project demonstrates how customer transaction data can be transformed into actionable business insights.
-Through data cleaning, feature engineering, customer segmentation, product analysis, and visualization, the analysis identified the customer groups, brands, pack sizes, and purchasing patterns that contribute most to chip sales.
-The findings can support better decisions around marketing, inventory planning, promotions, customer retention, and product strategy.
-
-## Author
-Oluwadamilola Oluwatosin
-Data Analyst | Python | SQL | Power BI | Excel | Data Visualization
