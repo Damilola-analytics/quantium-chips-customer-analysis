@@ -279,13 +279,11 @@ The following visualizations highlight key findings from the analysis.
 - **Business Analytics**
 
 ## Project Files
-## File Description
-Forage chips.ipynb
-Complete Python/Jupyter Notebook containing the analysis
-cleaned_chip_data.csv
-Cleaned and feature-engineered dataset
-images/
-Project charts and visualizations
+
+| File | Description |
+|---|---|
+| `Forage chips.ipynb` | Complete Jupyter Notebook containing the data analysis |
+| Chart images | Key visualizations from the analysis |
 
 ### Analysis Workflow
 
