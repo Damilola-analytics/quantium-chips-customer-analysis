@@ -230,7 +230,7 @@ Promote high-performing brands such as Thins to high-value customer groups while
 The project includes visualizations covering:
 
 
-## 📊 Visualizations
+## Visualizations
 
 The following visualizations highlight key findings from the analysis.
 
@@ -261,6 +261,7 @@ The following visualizations highlight key findings from the analysis.
 ### 7. Brand vs Customer Life Stage
 
 ![Brand vs Customer Life Stage](Brand-vs-customer%20lifestage.png)
+
 
 ## Tools & Technologies
 
