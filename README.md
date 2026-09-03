@@ -230,12 +230,13 @@ Promote high-performing brands such as Thins to high-value customer groups while
 The project includes visualizations covering:
 
 - Total Sales by Customer Life Stage
-- Total Sales by Customer Type
-- Transaction Volume by Life Stage
 - Monthly Sales Trend
+
+- ### Monthly Sales Trend
+
+![Monthly Sales Trend](monthly-sales-trends.jpg)
 - Revenue by Pack Size
 - Sales Distribution
-- Quantity Purchased vs Total Sales
 - Brand vs Customer Life Stage Heatmap
 
 ## Tools & Technologies
