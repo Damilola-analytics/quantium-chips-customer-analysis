@@ -287,7 +287,7 @@ Cleaned and feature-engineered dataset
 images/
 Project charts and visualizations
 
-## Analysis Workflow
+### Analysis Workflow
 
 ```text
 Raw Transaction Data
@@ -313,6 +313,7 @@ Data Visualization
 Business Insights
         ↓
 Strategic Recommendations
+````
 
 ## Overall Business Recommendations
 Based on the analysis:
